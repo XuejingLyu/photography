@@ -13,9 +13,8 @@ header:
  subtitle: "by Lyu Xuejing"
 footer:
  name: "Hey there, my name is Xuejing"
- bio: "I am a bioinformatician but deep inside I have an artist soul.
-
- Copyright Notice: All images on this website are the exclusive property of [Your Name]. Business and commercial use of these images is strictly prohibited without prior written consent and may be subject to licensing fees. To inquire about licensing opportunities or discuss potential business usage, please contact [Your Contact Information]"
+ bio: "I am a bioinformatician but deep inside I have an artist soul."
+ copyright: "Copyright Notice: All images on this website are the exclusive property of Lyu Xuejing. Business and commercial use of these images is strictly prohibited without prior written consent and may be subject to licensing fees. To inquire about licensing opportunities or discuss potential business usage, please contact xuejing.lyu@outlook.com"
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
 web_design: "AJ"
 social_urls:
